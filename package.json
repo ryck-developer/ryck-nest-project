@@ -6,6 +6,8 @@
   },
   "dependencies": {
     "@nestjs/cli": "^9.1.5",
-    "@nestjs/mapped-types": "*"
+    "@nestjs/mapped-types": "*",
+    "@nestjs/mongoose": "^9.2.1",
+    "mongoose": "^6.7.2"
   }
 }
