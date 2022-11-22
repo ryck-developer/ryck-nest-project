@@ -1,3 +1,9 @@
 delete <project>/src/app.controller.spec.ts
 delete <project>/src/app.controller.ts
 delete <project>/src/app.service.ts
+
+cd <project>
+
+nest g resource
+#was chosen the namethe name 'users' was chosen
+
